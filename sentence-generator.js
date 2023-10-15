@@ -1,0 +1,4 @@
+// declaration of 3 arrays, food cars and life-inspiration
+const food = ['a culinary symphony','a warm embrace','a taste of heaven','a journey around the world','a burst of happiness','a culinary masterpiece','a symphony of flavors','a comforting hug','a dance of taste buds','a moment of pure bliss'],
+cars = ['like a racing champion','on top of the world','invincible','like a modern-day knight','utterly alive','like a jet pilot','unstoppable','like a thrill-seeker','like a superhero','completely free'],
+lifeInpiration =['hope','determination','courage','faith','resilience','ambition','love','perseverance','positivity','faith in ourselves'];
